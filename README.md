@@ -1,6 +1,6 @@
 # <img src="./docs/images/logo.png" width="50" height="60" /> Task Management
 
-## [Live demo](https://youtu.be/8QvVxK2__P4) or [Try it here](https://task-management-r-n-151101.web.app)
+ [Try it here](https://task-management-r-n-151101.web.app)
 **Note:** May take a few minutes to start the backend server due to Heroku need time to wake up
 
 ## What is Task Management?
@@ -59,11 +59,4 @@ yarn stop
 - Leave all other fields as default value then click `Save`.
 => That's all, you are connected to database in your local container. Try to explore with Pgadmin more and have fun. 
 
-## Reference
 
-This application is configuration of [task-management-frontend](https://github.com/arielweinberger/task-management-frontend) of [Ariel Weinberger](https://github.com/arielweinberger).
-
-# License & copyright
-
-© Kirin Tran, FPT University TP.HCM
-Licensed under the [MIT LICENSE](LICENSE).
